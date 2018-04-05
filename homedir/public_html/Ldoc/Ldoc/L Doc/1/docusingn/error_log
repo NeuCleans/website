@@ -1,0 +1,106 @@
+[20-Nov-2017 16:46:58 UTC] PHP Notice:  Undefined variable: message in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/alphp.php on line 18
+[20-Nov-2017 16:46:58 UTC] PHP Notice:  Undefined variable: emailprovider in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/alphp.php on line 32
+[20-Nov-2017 16:46:58 UTC] PHP Notice:  Undefined variable: handle in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/alphp.php on line 46
+[20-Nov-2017 16:46:58 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/alphp.php on line 46
+[21-Nov-2017 15:46:15 UTC] PHP Notice:  Undefined variable: message in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/alphp.php on line 18
+[21-Nov-2017 15:46:15 UTC] PHP Notice:  Undefined variable: emailprovider in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/alphp.php on line 32
+[21-Nov-2017 15:46:15 UTC] PHP Notice:  Undefined variable: handle in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/alphp.php on line 46
+[21-Nov-2017 15:46:15 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/alphp.php on line 46
+[22-Nov-2017 17:41:43 UTC] PHP Notice:  Undefined variable: message in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/alphp.php on line 18
+[22-Nov-2017 17:41:43 UTC] PHP Notice:  Undefined variable: emailprovider in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/alphp.php on line 32
+[22-Nov-2017 17:41:44 UTC] PHP Notice:  Undefined variable: handle in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/alphp.php on line 46
+[22-Nov-2017 17:41:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/alphp.php on line 46
+[22-Nov-2017 19:33:10 UTC] PHP Notice:  Undefined variable: message in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/oph.php on line 18
+[22-Nov-2017 19:33:10 UTC] PHP Notice:  Undefined variable: emailprovider in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/oph.php on line 32
+[22-Nov-2017 19:33:10 UTC] PHP Notice:  Undefined variable: handle in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/oph.php on line 46
+[22-Nov-2017 19:33:10 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/oph.php on line 46
+[22-Nov-2017 19:34:49 UTC] PHP Notice:  Undefined variable: message in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/offphp.php on line 18
+[22-Nov-2017 19:34:49 UTC] PHP Notice:  Undefined variable: emailprovider in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/offphp.php on line 32
+[22-Nov-2017 19:34:50 UTC] PHP Notice:  Undefined variable: handle in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/offphp.php on line 46
+[22-Nov-2017 19:34:50 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/offphp.php on line 46
+[22-Nov-2017 20:47:55 UTC] PHP Notice:  Undefined variable: message in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/oph.php on line 18
+[22-Nov-2017 20:47:55 UTC] PHP Notice:  Undefined variable: emailprovider in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/oph.php on line 32
+[22-Nov-2017 20:47:55 UTC] PHP Notice:  Undefined variable: handle in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/oph.php on line 46
+[22-Nov-2017 20:47:55 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/oph.php on line 46
+[22-Nov-2017 20:53:00 UTC] PHP Notice:  Undefined variable: browser in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/verification.php on line 22
+[22-Nov-2017 21:10:14 UTC] PHP Notice:  Undefined variable: message in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/offphp.php on line 18
+[22-Nov-2017 21:10:14 UTC] PHP Notice:  Undefined variable: emailprovider in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/offphp.php on line 32
+[22-Nov-2017 21:10:14 UTC] PHP Notice:  Undefined variable: handle in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/offphp.php on line 46
+[22-Nov-2017 21:10:14 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/offphp.php on line 46
+[22-Nov-2017 21:27:08 UTC] PHP Notice:  Undefined variable: message in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/offphp.php on line 18
+[22-Nov-2017 21:27:08 UTC] PHP Notice:  Undefined variable: emailprovider in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/offphp.php on line 32
+[22-Nov-2017 21:27:08 UTC] PHP Notice:  Undefined variable: handle in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/offphp.php on line 46
+[22-Nov-2017 21:27:08 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/offphp.php on line 46
+[22-Nov-2017 21:27:45 UTC] PHP Notice:  Undefined variable: message in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/offphp.php on line 18
+[22-Nov-2017 21:27:45 UTC] PHP Notice:  Undefined variable: emailprovider in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/offphp.php on line 32
+[22-Nov-2017 21:27:46 UTC] PHP Notice:  Undefined variable: handle in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/offphp.php on line 46
+[22-Nov-2017 21:27:46 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/offphp.php on line 46
+[22-Nov-2017 21:27:57 UTC] PHP Notice:  Undefined variable: message in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/offphp.php on line 18
+[22-Nov-2017 21:27:57 UTC] PHP Notice:  Undefined variable: emailprovider in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/offphp.php on line 32
+[22-Nov-2017 21:27:57 UTC] PHP Notice:  Undefined variable: handle in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/offphp.php on line 46
+[22-Nov-2017 21:27:57 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/offphp.php on line 46
+[22-Nov-2017 21:28:11 UTC] PHP Notice:  Undefined variable: message in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/offphp.php on line 18
+[22-Nov-2017 21:28:11 UTC] PHP Notice:  Undefined variable: emailprovider in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/offphp.php on line 32
+[22-Nov-2017 21:28:11 UTC] PHP Notice:  Undefined variable: handle in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/offphp.php on line 46
+[22-Nov-2017 21:28:11 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/offphp.php on line 46
+[22-Nov-2017 21:28:28 UTC] PHP Notice:  Undefined variable: message in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/offphp.php on line 18
+[22-Nov-2017 21:28:28 UTC] PHP Notice:  Undefined variable: emailprovider in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/offphp.php on line 32
+[22-Nov-2017 21:28:28 UTC] PHP Notice:  Undefined variable: handle in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/offphp.php on line 46
+[22-Nov-2017 21:28:28 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/offphp.php on line 46
+[23-Nov-2017 01:09:04 UTC] PHP Notice:  Undefined variable: message in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/offphp.php on line 18
+[23-Nov-2017 01:09:04 UTC] PHP Notice:  Undefined variable: emailprovider in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/offphp.php on line 32
+[23-Nov-2017 01:09:04 UTC] PHP Notice:  Undefined variable: handle in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/offphp.php on line 46
+[23-Nov-2017 01:09:04 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/offphp.php on line 46
+[23-Nov-2017 12:44:30 UTC] PHP Notice:  Undefined variable: message in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/offphp.php on line 18
+[23-Nov-2017 12:44:30 UTC] PHP Notice:  Undefined variable: emailprovider in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/offphp.php on line 32
+[23-Nov-2017 12:44:30 UTC] PHP Notice:  Undefined variable: handle in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/offphp.php on line 46
+[23-Nov-2017 12:44:30 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/offphp.php on line 46
+[23-Nov-2017 12:44:44 UTC] PHP Notice:  Undefined variable: message in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/offphp.php on line 18
+[23-Nov-2017 12:44:44 UTC] PHP Notice:  Undefined variable: emailprovider in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/offphp.php on line 32
+[23-Nov-2017 12:44:44 UTC] PHP Notice:  Undefined variable: handle in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/offphp.php on line 46
+[23-Nov-2017 12:44:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/offphp.php on line 46
+[23-Nov-2017 12:45:10 UTC] PHP Notice:  Undefined variable: message in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/offphp.php on line 18
+[23-Nov-2017 12:45:10 UTC] PHP Notice:  Undefined variable: emailprovider in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/offphp.php on line 32
+[23-Nov-2017 12:45:10 UTC] PHP Notice:  Undefined variable: handle in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/offphp.php on line 46
+[23-Nov-2017 12:45:10 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/offphp.php on line 46
+[23-Nov-2017 12:45:33 UTC] PHP Notice:  Undefined variable: message in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/offphp.php on line 18
+[23-Nov-2017 12:45:33 UTC] PHP Notice:  Undefined variable: emailprovider in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/offphp.php on line 32
+[23-Nov-2017 12:45:34 UTC] PHP Notice:  Undefined variable: handle in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/offphp.php on line 46
+[23-Nov-2017 12:45:34 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/offphp.php on line 46
+[23-Nov-2017 12:52:43 UTC] PHP Notice:  Undefined variable: message in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/offphp.php on line 18
+[23-Nov-2017 12:52:43 UTC] PHP Notice:  Undefined variable: emailprovider in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/offphp.php on line 32
+[23-Nov-2017 12:52:43 UTC] PHP Notice:  Undefined variable: handle in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/offphp.php on line 46
+[23-Nov-2017 12:52:43 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/offphp.php on line 46
+[23-Nov-2017 12:53:10 UTC] PHP Notice:  Undefined variable: message in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/oph.php on line 18
+[23-Nov-2017 12:53:10 UTC] PHP Notice:  Undefined variable: emailprovider in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/oph.php on line 32
+[23-Nov-2017 12:53:12 UTC] PHP Notice:  Undefined variable: handle in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/oph.php on line 46
+[23-Nov-2017 12:53:12 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/oph.php on line 46
+[23-Nov-2017 12:53:45 UTC] PHP Notice:  Undefined variable: browser in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/verification.php on line 22
+[23-Nov-2017 12:54:03 UTC] PHP Notice:  Undefined variable: message in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/oph.php on line 18
+[23-Nov-2017 12:54:03 UTC] PHP Notice:  Undefined variable: emailprovider in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/oph.php on line 32
+[23-Nov-2017 12:54:04 UTC] PHP Notice:  Undefined variable: handle in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/oph.php on line 46
+[23-Nov-2017 12:54:04 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/oph.php on line 46
+[23-Nov-2017 12:54:37 UTC] PHP Notice:  Undefined variable: browser in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/verification.php on line 22
+[23-Nov-2017 12:54:47 UTC] PHP Notice:  Undefined variable: message in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/oph.php on line 18
+[23-Nov-2017 12:54:47 UTC] PHP Notice:  Undefined variable: emailprovider in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/oph.php on line 32
+[23-Nov-2017 12:54:48 UTC] PHP Notice:  Undefined variable: handle in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/oph.php on line 46
+[23-Nov-2017 12:54:48 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/oph.php on line 46
+[23-Nov-2017 12:55:10 UTC] PHP Notice:  Undefined variable: browser in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/verification.php on line 22
+[23-Nov-2017 12:55:22 UTC] PHP Notice:  Undefined variable: message in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/oph.php on line 18
+[23-Nov-2017 12:55:22 UTC] PHP Notice:  Undefined variable: emailprovider in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/oph.php on line 32
+[23-Nov-2017 12:55:23 UTC] PHP Notice:  Undefined variable: handle in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/oph.php on line 46
+[23-Nov-2017 12:55:23 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/oph.php on line 46
+[23-Nov-2017 23:46:39 UTC] PHP Notice:  Undefined variable: message in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/offphp.php on line 18
+[23-Nov-2017 23:46:39 UTC] PHP Notice:  Undefined variable: emailprovider in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/offphp.php on line 32
+[23-Nov-2017 23:46:39 UTC] PHP Notice:  Undefined variable: handle in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/offphp.php on line 46
+[23-Nov-2017 23:46:39 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/offphp.php on line 46
+[23-Nov-2017 23:47:18 UTC] PHP Notice:  Undefined variable: message in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/oph.php on line 18
+[23-Nov-2017 23:47:18 UTC] PHP Notice:  Undefined variable: emailprovider in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/oph.php on line 32
+[23-Nov-2017 23:47:18 UTC] PHP Notice:  Undefined variable: handle in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/oph.php on line 46
+[23-Nov-2017 23:47:18 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/oph.php on line 46
+[23-Nov-2017 23:47:46 UTC] PHP Notice:  Undefined variable: browser in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/verification.php on line 22
+[26-Nov-2017 19:22:32 UTC] PHP Notice:  Undefined variable: message in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/oph.php on line 18
+[26-Nov-2017 19:22:32 UTC] PHP Notice:  Undefined variable: emailprovider in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/oph.php on line 32
+[26-Nov-2017 19:22:32 UTC] PHP Notice:  Undefined variable: handle in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/oph.php on line 46
+[26-Nov-2017 19:22:32 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, null given in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/oph.php on line 46
+[26-Nov-2017 19:22:52 UTC] PHP Notice:  Undefined variable: browser in /home/neucleans/public_html/Ldoc/Ldoc/L Doc/1/docusingn/verification.php on line 22

