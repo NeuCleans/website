@@ -1,3 +1,3 @@
 *.tar.gz
 homedir
-!homedir/www/
+!homedir/public_html/
