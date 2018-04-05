@@ -1,6 +1,11 @@
 #!/bin/bash
 
+if [ -z "$1" ]; then
+	echo "missing image tag"
+	exit 1
+fi
+
 docker run --rm -itd \
 	-p 8080:80 \
 	--name neuwebprod \
-	neuweb
+	neuweb:$1

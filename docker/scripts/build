@@ -1,5 +1,10 @@
 #!/bin/bash
 
-docker build -t neuweb \
+if [ -z "$1" ]; then
+	echo "missing image tag"
+	exit 1
+fi
+
+docker build -t neuweb:$1 \
 	-f /Users/claudius/Documents/work/Startups/neu/website/docker/Dockerfile \
 	/Users/claudius/Documents/work/Startups/neu/website/.

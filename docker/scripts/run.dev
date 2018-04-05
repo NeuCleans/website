@@ -1,8 +1,13 @@
 #!/bin/bash
 
+if [ -z "$1" ]; then
+	echo "missing image tag"
+	exit 1
+fi
+
 docker run --rm -itd \
 	-v /Users/claudius/Documents/work/Startups/neu/website/homedir/www:/var/www/html \
 	-p 8080:80 \
 	--name neuwebdev \
-	richarvey/nginx-php-fpm
+	neuweb:$1
 #bash #-c "cp /etc/nginx/sites-available/defaut.conf /etc/nginx/conf.d/site.conf"
