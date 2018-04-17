@@ -1,6 +1,13 @@
 <!DOCTYPE HTML>
 <html lang="en-US">
     <head>
+        <!-- Google Tag Manager -->
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-PHH3298');</script>
+        <!-- End Google Tag Manager -->
         <meta charset="UTF-8">
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -15,22 +22,24 @@
         <link rel="stylesheet" type="text/css" href="css/responsive.css" media="all" />
         <link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.css'>
         <link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.theme.css'>
-        
-        
+
+
         <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-107991313-1"></script>
-<script>
+<!-- <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
   gtag('config', 'UA-107991313-1');
-</script>
+</script> -->
 
-        
-        
     </head>
     <body>
+        <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PHH3298"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
         <?php
         if(isset($_POST['submit'])){
         require 'PHPMailer/PHPMailerAutoload.php';
@@ -38,7 +47,7 @@
         // SMTP configuration
         $mail->isSMTP();
         $mail->Host = 'altar34.supremepanel34.com';
- 
+
         $mail->SMTPAuth = true;
         $mail->Username = 'admin@neucleans.com';
         $mail->Password = 'securepassword912';
@@ -59,7 +68,7 @@
         if(!$mail->send()) {
         echo '<div class="alert  alert-danger alert-dismissable text-center" style="background:indianred !important; color:#fff !important; border-radius:0px !important"><a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a><strong>Danger!</strong> Message could not be sent. </div>';
         } else {
-        
+
         echo '<div class="alert  alert-success alert-dismissable text-center" style="background:green !important; color:#fff !important; border-radius:0px !important"><a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a><strong>Success!</strong> Your Message has been sent. </div>';
         }
         }
@@ -275,7 +284,7 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-md-12">
-                                
+
                                 <article>
                                     <div id="owl">
                                         <div class="column row">
@@ -285,7 +294,7 @@
                                                         <div class=" round-image">
                                                             <img src="img/client.png">
                                                         </div>
-                                                        
+
                                                     </div>
                                                 </div>
                                                 <div class="col-md-10">
@@ -295,7 +304,7 @@
                                                     </div>
                                                     <p class="name">Lara</p>
                                                 </div>
-                                                
+
                                             </div>
                                         </div>
                                         <div class="column row">
@@ -305,7 +314,7 @@
                                                         <div class=" round-image">
                                                             <img src="img/client2.jpg">
                                                         </div>
-                                                        
+
                                                     </div>
                                                 </div>
                                                 <div class="col-md-10">
@@ -315,10 +324,10 @@
                                                     </div>
                                                     <p class="name">Rachel</p>
                                                 </div>
-                                                
+
                                             </div>
                                         </div>
-                                        
+
                                         <div class="column row">
                                             <div class=" columns testimonial">
                                                 <div class="col-md-2">
@@ -326,7 +335,7 @@
                                                         <div class=" round-image">
                                                             <img src="img/client3.jpg">
                                                         </div>
-                                                        
+
                                                     </div>
                                                 </div>
                                                 <div class="col-md-10">
@@ -336,10 +345,10 @@
                                                     </div>
                                                     <p class="name">Lisa</p>
                                                 </div>
-                                                
+
                                             </div>
                                         </div>
-                                        
+
                                         <div class="column row">
                                             <div class=" columns testimonial">
                                                 <div class="col-md-2">
@@ -347,7 +356,7 @@
                                                         <div class=" round-image">
                                                             <img src="img/client4.jpg">
                                                         </div>
-                                                        
+
                                                     </div>
                                                 </div>
                                                 <div class="col-md-10">
@@ -357,10 +366,10 @@
                                                     </div>
                                                     <p class="name">Bradley</p>
                                                 </div>
-                                                
+
                                             </div>
                                         </div>
-                                        
+
                                         <div class="column row">
                                             <div class=" columns testimonial">
                                                 <div class="col-md-2">
@@ -368,7 +377,7 @@
                                                         <div class=" round-image">
                                                             <img src="img/client5.jpg">
                                                         </div>
-                                                        
+
                                                     </div>
                                                 </div>
                                                 <div class="col-md-10">
@@ -380,10 +389,10 @@
                                                     </div>
                                                     <p class="name">Laura</p>
                                                 </div>
-                                                
+
                                             </div>
                                         </div>
-                                        
+
                                         <div class="column row">
                                             <div class=" columns testimonial">
                                                 <div class="col-md-2">
@@ -391,7 +400,7 @@
                                                         <div class=" round-image">
                                                             <img src="img/client6.jpg">
                                                         </div>
-                                                        
+
                                                     </div>
                                                 </div>
                                                 <div class="col-md-10">
@@ -401,10 +410,10 @@
                                                     </div>
                                                     <p class="name">Tyler</p>
                                                 </div>
-                                                
+
                                             </div>
                                         </div>
-                                        
+
                                         <div class="column row">
                                             <div class=" columns testimonial">
                                                 <div class="col-md-2">
@@ -412,7 +421,7 @@
                                                         <div class=" round-image">
                                                             <img src="img/client7.jpg">
                                                         </div>
-                                                        
+
                                                     </div>
                                                 </div>
                                                 <div class="col-md-10">
@@ -422,10 +431,10 @@
                                                     </div>
                                                     <p class="name">Tamar</p>
                                                 </div>
-                                                
+
                                             </div>
                                         </div>
-                                        
+
                                         <div class="column row">
                                             <div class=" columns testimonial">
                                                 <div class="col-md-2">
@@ -433,7 +442,7 @@
                                                         <div class=" round-image">
                                                             <img src="img/client8.jpg">
                                                         </div>
-                                                        
+
                                                     </div>
                                                 </div>
                                                 <div class="col-md-10">
@@ -443,10 +452,10 @@
                                                     </div>
                                                     <p class="name">Joanna</p>
                                                 </div>
-                                                
+
                                             </div>
                                         </div>
-                                        
+
                                         <div class="column row">
                                             <div class=" columns testimonial">
                                                 <div class="col-md-2">
@@ -454,7 +463,7 @@
                                                         <div class=" round-image">
                                                             <img src="img/client9.jpg">
                                                         </div>
-                                                        
+
                                                     </div>
                                                 </div>
                                                 <div class="col-md-10">
@@ -464,12 +473,12 @@
                                                     </div>
                                                     <p class="name">JoAnn</p>
                                                 </div>
-                                                
+
                                             </div>
                                         </div>
-                                        
-                                        
-                                        
+
+
+
                                         <div class="column row">
                                             <div class=" columns testimonial">
                                                 <div class="col-md-2">
@@ -477,7 +486,7 @@
                                                         <div class=" round-image">
                                                             <img src="img/client10.jpg">
                                                         </div>
-                                                        
+
                                                     </div>
                                                 </div>
                                                 <div class="col-md-10">
@@ -487,10 +496,10 @@
                                                     </div>
                                                     <p class="name">Alvaro</p>
                                                 </div>
-                                                
+
                                             </div>
                                         </div>
-                                        
+
                                         <div class="column row">
                                             <div class=" columns testimonial">
                                                 <div class="col-md-2">
@@ -498,7 +507,7 @@
                                                         <div class=" round-image">
                                                             <img src="img/client12.jpg">
                                                         </div>
-                                                        
+
                                                     </div>
                                                 </div>
                                                 <div class="col-md-10">
@@ -508,10 +517,10 @@
                                                     </div>
                                                     <p class="name">Katie</p>
                                                 </div>
-                                                
+
                                             </div>
                                         </div>
-                                        
+
                                         <div class="column row">
                                             <div class=" columns testimonial">
                                                 <div class="col-md-2">
@@ -519,7 +528,7 @@
                                                         <div class=" round-image">
                                                             <img src="img/client0.jpg">
                                                         </div>
-                                                        
+
                                                     </div>
                                                 </div>
                                                 <div class="col-md-10">
@@ -529,10 +538,10 @@
                                                     </div>
                                                     <p class="name">Zheng</p>
                                                 </div>
-                                                
+
                                             </div>
                                         </div>
-                                        
+
                                         <div class="column row">
                                             <div class=" columns testimonial">
                                                 <div class="col-md-2">
@@ -540,7 +549,7 @@
                                                         <div class=" round-image">
                                                             <img src="img/client13.jpg">
                                                         </div>
-                                                        
+
                                                     </div>
                                                 </div>
                                                 <div class="col-md-10">
@@ -550,10 +559,10 @@
                                                     </div>
                                                     <p class="name">Amy</p>
                                                 </div>
-                                                
+
                                             </div>
                                         </div>
-                                        
+
                                         <div class="column row">
                                             <div class=" columns testimonial">
                                                 <div class="col-md-2">
@@ -561,7 +570,7 @@
                                                         <div class=" round-image">
                                                             <img src="img/client14.jpg">
                                                         </div>
-                                                        
+
                                                     </div>
                                                 </div>
                                                 <div class="col-md-10">
@@ -571,10 +580,10 @@
                                                     </div>
                                                     <p class="name">Jack</p>
                                                 </div>
-                                                
+
                                             </div>
                                         </div>
-                                        
+
                                         <div class="column row">
                                             <div class=" columns testimonial">
                                                 <div class="col-md-2">
@@ -582,7 +591,7 @@
                                                         <div class=" round-image">
                                                             <img src="img/client15.jpg">
                                                         </div>
-                                                        
+
                                                     </div>
                                                 </div>
                                                 <div class="col-md-10">
@@ -592,10 +601,10 @@
                                                     </div>
                                                     <p class="name">Jill</p>
                                                 </div>
-                                                
+
                                             </div>
                                         </div>
-                                        
+
                                         <div class="column row">
                                             <div class=" columns testimonial">
                                                 <div class="col-md-2">
@@ -603,7 +612,7 @@
                                                         <div class=" round-image">
                                                             <img src="img/client16.jpg">
                                                         </div>
-                                                        
+
                                                     </div>
                                                 </div>
                                                 <div class="col-md-10">
@@ -613,10 +622,10 @@
                                                     </div>
                                                     <p class="name">Sara</p>
                                                 </div>
-                                                
+
                                             </div>
                                         </div>
-                                        
+
                                         <div class="column row">
                                             <div class=" columns testimonial">
                                                 <div class="col-md-2">
@@ -624,7 +633,7 @@
                                                         <div class=" round-image">
                                                             <img src="img/client17.jpg">
                                                         </div>
-                                                        
+
                                                     </div>
                                                 </div>
                                                 <div class="col-md-10">
@@ -634,10 +643,10 @@
                                                     </div>
                                                     <p class="name">Joe</p>
                                                 </div>
-                                                
+
                                             </div>
                                         </div>
-                                        
+
                                         <div class="column row">
                                             <div class=" columns testimonial">
                                                 <div class="col-md-2">
@@ -645,7 +654,7 @@
                                                         <div class=" round-image">
                                                             <img src="img/client18.jpg">
                                                         </div>
-                                                        
+
                                                     </div>
                                                 </div>
                                                 <div class="col-md-10">
@@ -657,10 +666,10 @@
                                                     </div>
                                                     <p class="name">Crystal</p>
                                                 </div>
-                                                
+
                                             </div>
                                         </div>
-                                        
+
                                         <div class="column row">
                                             <div class=" columns testimonial">
                                                 <div class="col-md-2">
@@ -668,7 +677,7 @@
                                                         <div class=" round-image">
                                                             <img src="img/client19.jpg">
                                                         </div>
-                                                        
+
                                                     </div>
                                                 </div>
                                                 <div class="col-md-10">
@@ -678,10 +687,10 @@
                                                     </div>
                                                     <p class="name">Deidre</p>
                                                 </div>
-                                                
+
                                             </div>
                                         </div>
-                                        
+
                                         <div class="column row">
                                             <div class=" columns testimonial">
                                                 <div class="col-md-2">
@@ -689,7 +698,7 @@
                                                         <div class=" round-image">
                                                             <img src="img/client20.jpg">
                                                         </div>
-                                                        
+
                                                     </div>
                                                 </div>
                                                 <div class="col-md-10">
@@ -699,10 +708,10 @@
                                                     </div>
                                                     <p class="name">Dan</p>
                                                 </div>
-                                                
+
                                             </div>
                                         </div>
-                                        
+
                                         <div class="column row">
                                             <div class=" columns testimonial">
                                                 <div class="col-md-2">
@@ -710,7 +719,7 @@
                                                         <div class=" round-image">
                                                             <img src="img/client21.jpg">
                                                         </div>
-                                                        
+
                                                     </div>
                                                 </div>
                                                 <div class="col-md-10">
@@ -720,10 +729,10 @@
                                                     </div>
                                                     <p class="name">Binqi</p>
                                                 </div>
-                                                
+
                                             </div>
                                         </div>
-                                        
+
                                         <div class="column row">
                                             <div class=" columns testimonial">
                                                 <div class="col-md-2">
@@ -731,7 +740,7 @@
                                                         <div class=" round-image">
                                                             <img src="img/client22.jpg">
                                                         </div>
-                                                        
+
                                                     </div>
                                                 </div>
                                                 <div class="col-md-10">
@@ -744,10 +753,10 @@
                                                     </div>
                                                     <p class="name">Wendy</p>
                                                 </div>
-                                                
+
                                             </div>
                                         </div>
-                                        
+
                                         <div class="column row">
                                             <div class=" columns testimonial">
                                                 <div class="col-md-2">
@@ -755,7 +764,7 @@
                                                         <div class=" round-image">
                                                             <img src="img/client23.jpg">
                                                         </div>
-                                                        
+
                                                     </div>
                                                 </div>
                                                 <div class="col-md-10">
@@ -765,10 +774,10 @@
                                                     </div>
                                                     <p class="name">Sam</p>
                                                 </div>
-                                                
+
                                             </div>
                                         </div>
-                                        
+
                                         <div class="column row">
                                             <div class=" columns testimonial">
                                                 <div class="col-md-2">
@@ -776,7 +785,7 @@
                                                         <div class=" round-image">
                                                             <img src="img/client24.jpg">
                                                         </div>
-                                                        
+
                                                     </div>
                                                 </div>
                                                 <div class="col-md-10">
@@ -788,10 +797,10 @@
                                                     </div>
                                                     <p class="name">Kiran</p>
                                                 </div>
-                                                
+
                                             </div>
                                         </div>
-                                        
+
                                         <div class="column row">
                                             <div class=" columns testimonial">
                                                 <div class="col-md-2">
@@ -799,7 +808,7 @@
                                                         <div class=" round-image">
                                                             <img src="img/client25.jpg">
                                                         </div>
-                                                        
+
                                                     </div>
                                                 </div>
                                                 <div class="col-md-10">
@@ -809,10 +818,10 @@
                                                     </div>
                                                     <p class="name">Mohammed</p>
                                                 </div>
-                                                
+
                                             </div>
                                         </div>
-                                        
+
                                         <div class="column row">
                                             <div class=" columns testimonial">
                                                 <div class="col-md-2">
@@ -820,7 +829,7 @@
                                                         <div class=" round-image">
                                                             <img src="img/client26.jpg">
                                                         </div>
-                                                        
+
                                                     </div>
                                                 </div>
                                                 <div class="col-md-10">
@@ -830,10 +839,10 @@
                                                     </div>
                                                     <p class="name">Chieko</p>
                                                 </div>
-                                                
+
                                             </div>
                                         </div>
-                                        
+
                                         <div class="column row">
                                             <div class=" columns testimonial">
                                                 <div class="col-md-2">
@@ -841,7 +850,7 @@
                                                         <div class=" round-image">
                                                             <img src="img/client27.jpg">
                                                         </div>
-                                                        
+
                                                     </div>
                                                 </div>
                                                 <div class="col-md-10">
@@ -852,10 +861,10 @@
                                                     </div>
                                                     <p class="name">Karen</p>
                                                 </div>
-                                                
+
                                             </div>
                                         </div>
-                                        
+
                                         <div class="column row">
                                             <div class=" columns testimonial">
                                                 <div class="col-md-2">
@@ -863,7 +872,7 @@
                                                         <div class=" round-image">
                                                             <img src="img/client28.jpg">
                                                         </div>
-                                                        
+
                                                     </div>
                                                 </div>
                                                 <div class="col-md-10">
@@ -873,10 +882,10 @@
                                                     </div>
                                                     <p class="name">Tammi Taylor</p>
                                                 </div>
-                                                
+
                                             </div>
                                         </div>
-                                        
+
                                         <div class="column row">
                                             <div class=" columns testimonial">
                                                 <div class="col-md-2">
@@ -884,7 +893,7 @@
                                                         <div class=" round-image">
                                                             <img src="img/client29.jpg">
                                                         </div>
-                                                        
+
                                                     </div>
                                                 </div>
                                                 <div class="col-md-10">
@@ -896,10 +905,10 @@
                                                     </div>
                                                     <p class="name">Cynthia</p>
                                                 </div>
-                                                
+
                                             </div>
                                         </div>
-                                        
+
                                         <div class="column row">
                                             <div class=" columns testimonial">
                                                 <div class="col-md-2">
@@ -907,7 +916,7 @@
                                                         <div class=" round-image">
                                                             <img src="img/client30.jpg">
                                                         </div>
-                                                        
+
                                                     </div>
                                                 </div>
                                                 <div class="col-md-10">
@@ -917,14 +926,14 @@
                                                     </div>
                                                     <p class="name">Ed</p>
                                                 </div>
-                                                
+
                                             </div>
                                         </div>
-                                        
-                                        
-                                        
-                                        
-                                        
+
+
+
+
+
                                     </div>
                                 </article>
                             </div>
@@ -943,7 +952,7 @@
                         <div class="pricing-content">
                             <div class="row">
                                 <ul  class="nav nav-pills">
-                                    
+
                                     <li class="active">
                                         <a  href="#1a" data-toggle="tab">
                                         <h2>SIMPLE</h2>
@@ -953,7 +962,7 @@
                                             <h4>400 SQ FT 0BD/1BR</h4>
                                         </div>
                                         </a>
-                                        
+
                                         <div id="p1" class="hidden-lg hidden-md hidden-sm">
                                             <div class="row service_lists">
                                             <div class="row">
@@ -996,13 +1005,13 @@
                                                                     <li>Bathtub</li>
                                                                     <li>Toilet </li>
                                                                 </ul>
-                                                              
+
                                                                 <li>Vacuum/Mop floor.</li>
                                                             </ul>
                                                         </div>
                                                     </div>
                                                 </div>
-                                                
+
                                                 <div class="col-md-6  col-sm-6">
                                                     <div class="">
                                                         <div class="service-list">
@@ -1032,9 +1041,9 @@
                                         </div>
                                         </div>
 
-                                        
+
                                     </li>
-                                    
+
                                     <li>
                                         <a href="#2a" class="" data-toggle="tab">
                                         <h2>SIMPLE PLUS</h2>
@@ -1046,7 +1055,7 @@
                                         </div>
 
                                         </a>
-                                        
+
                                         <div id="p2" class="hidden-lg hidden-md hidden-sm">
                                         <div class="row service_lists">
                                         <div class="row">
@@ -1054,7 +1063,7 @@
                                                 <div class="service-list">
                                                     <h2>bedroom</h2>
                                                     <ul>
-                                                        
+
                                                         <li>Strip sheets.</li>
                                                         <li>Make beds.</li>
                                                         <li class="item-clr1">Provide fresh bed linens.</li>
@@ -1098,7 +1107,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            
+
                                             <div class="col-md-6  col-sm-6">
                                                 <div class="">
                                                     <div class="service-list">
@@ -1127,7 +1136,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                            
+
                                         </div>
                                     </li>
                                     <li>
@@ -1143,7 +1152,7 @@
                                         </div>
 
                                         </a>
-                                        
+
                                         <div id="p3" class="hidden-lg hidden-md hidden-sm">
 
                                             <div class="row service_lists">
@@ -1187,11 +1196,11 @@
                                                     </ul>
                                                 </div>
                                             </div>
-                                            
-                                            
-                                            
+
+
+
                                         </div>
-                                        
+
                                         <div class="row">
                                             <div class="col-md-6  col-sm-6">
                                                 <div class="">
@@ -1216,7 +1225,7 @@
                                                 </div>
                                             </div>
                                             <div class="col-md-6  col-sm-6">
-                                                
+
                                                 <div class="service-list">
                                                     <h2>Bathroom</h2>
                                                     <ul>
@@ -1235,9 +1244,9 @@
                                                         <li>Vacuum/Mop floor.</li>
                                                     </ul>
                                                 </div>
-                                                
+
                                             </div>
-                                            
+
                                         </div>
                                         <div class="col-xs-12 col-md-12 col-sm-6">
                                             <div class="service-quote text-center">
@@ -1245,18 +1254,18 @@
                                             </div>
                                         </div>
                                     </div>
-                                            
+
                                         </div>
                                     </li>
-                                    
+
                                 </ul>
                             </div>
 
-                            
-                            
-                            
-                            
-                            
+
+
+
+
+
                             <div class="tab-content clearfix hidden-xs">
                                 <div class="tab-pane active" id="1a">
                                     <div class="">
@@ -1301,13 +1310,13 @@
                                                                     <li>Bathtub</li>
                                                                     <li>Toilet </li>
                                                                 </ul>
-                                                              
+
                                                                 <li>Vacuum/Mop floor.</li>
                                                             </ul>
                                                         </div>
                                                     </div>
                                                 </div>
-                                                
+
                                                 <div class="col-md-6  col-sm-6">
                                                     <div class="">
                                                         <div class="service-list">
@@ -1344,7 +1353,7 @@
                                                 <div class="service-list">
                                                     <h2>bedroom</h2>
                                                     <ul>
-                                                        
+
                                                         <li>Strip sheets.</li>
                                                         <li>Make beds.</li>
                                                         <li  class="item-clr1">Provide fresh bed linens.</li>
@@ -1388,7 +1397,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            
+
                                             <div class="col-md-6  col-sm-6">
                                                 <div class="">
                                                     <div class="service-list">
@@ -1417,7 +1426,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                    
+
                                 </div>
                                 <div class="tab-pane" id="3a">
                                     <div class="row service_lists">
@@ -1460,7 +1469,7 @@
                                                                 <li class="item-clr2">Light switches & thermostats</li>
                                                                 <li class="item-clr2">Baseboards</li>
                                                             </div>
-                                              
+
                                                         </ul>
                                                         </div>
 
@@ -1469,11 +1478,11 @@
                                                     </ul>
                                                 </div>
                                             </div>
-                                            
-                                            
-                                            
+
+
+
                                         </div>
-                                        
+
                                         <div class="row">
                                             <div class="col-md-6  col-sm-6">
                                                 <div class="">
@@ -1498,7 +1507,7 @@
                                                 </div>
                                             </div>
                                             <div class="col-md-6  col-sm-6">
-                                                
+
                                                 <div class="service-list">
                                                     <h2>Bathroom</h2>
                                                     <ul>
@@ -1517,9 +1526,9 @@
                                                         <li>Vacuum/Mop floor.</li>
                                                     </ul>
                                                 </div>
-                                                
+
                                             </div>
-                                            
+
                                         </div>
                                         <div class="col-xs-12 col-md-12 col-sm-6">
                                             <div class="service-quote text-center">
@@ -1527,19 +1536,19 @@
                                             </div>
                                         </div>
                                     </div>
-                                    
-                                    
-                                    
+
+
+
                                 </div>
                             </div>
-                            
+
                             <!-- tab content start -->
-                            
+
                             <!-- endt tab content  -->
-                            
+
                         </div>
                     </div>
-                    
+
                 </div>
                 <!-- End Pricing -->
                 <!-- Start contact -->
@@ -1554,7 +1563,7 @@
                             <div class="row">
                                 <div class="col-md-6">
                                     <div class="row">
-                                        
+
                                         <form class="form-horizontal" action="#" method="post">
                                             <div class="col-md-10 col-md-offset-1">
                                                 <div class="col-md-12 ">
@@ -1623,7 +1632,7 @@
                     </div>
                 </div>
                 <!-- End contact -->
-                
+
                 <footer class=" text-center">
                     <!-- <p class="text-center">Copyright &copy | <a href="#">Privacy</a> | <a href="#">Term</a> | <a href="#">Cookies</a></p> -->
                     <ul class="list-inline">
@@ -1633,11 +1642,11 @@
                         <li><a href="#">Cookies</a></li>
                     </ul>
                 </footer>
-                
-                
+
+
                 <!-- Start main-wrapper -->
                 <!-- end main-wrapper -->
-                
+
                 <script src="js/jquery-1.11.3.min.js" type="text/javascript"></script>
                 <script src="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.js" type="text/javascript"></script>
                 <script src="https://code.jquery.com/jquery-migrate-1.2.1.min.js" type="text/javascript"></script>
@@ -1645,13 +1654,13 @@
                 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-scrollTo/2.1.2/jquery.scrollTo.min.js"></script>
                 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-localScroll/2.0.0/jquery.localScroll.min.js"></script>
                 <script src="js/smoot-scroll.js"></script>
-                
+
                 <!--Hellobar Js-->
                 <script type="text/javascript" src="https://my.hellobar.com/c68b76509ad5d4b7d763dda37f9f36c800341e61.js" async="async"></script>
-                
+
                 <script src="js/custom-script.js"></script>
                 <script>
-                
+
                 $(document).ready(function () {
                 $("#owl").owlCarousel({
                 navigation: false,
@@ -1666,8 +1675,8 @@
                 <script>
                 !function() {
                   var t;
-                  if (t = window.driftt = window.drift = window.driftt || [], !t.init) return t.invoked ? void (window.console && console.error && console.error("Drift snippet included twice.")) : (t.invoked = !0, 
-                  t.methods = [ "identify", "config", "track", "reset", "debug", "show", "ping", "page", "hide", "off", "on" ], 
+                  if (t = window.driftt = window.drift = window.driftt || [], !t.init) return t.invoked ? void (window.console && console.error && console.error("Drift snippet included twice.")) : (t.invoked = !0,
+                  t.methods = [ "identify", "config", "track", "reset", "debug", "show", "ping", "page", "hide", "off", "on" ],
                   t.factory = function(e) {
                     return function() {
                       var n;
@@ -1677,8 +1686,8 @@
                     t[e] = t.factory(e);
                   }), t.load = function(t) {
                     var e, n, o, i;
-                    e = 3e5, i = Math.ceil(new Date() / e) * e, o = document.createElement("script"), 
-                    o.type = "text/javascript", o.async = !0, o.crossorigin = "anonymous", o.src = "https://js.driftt.com/include/" + i + "/" + t + ".js", 
+                    e = 3e5, i = Math.ceil(new Date() / e) * e, o = document.createElement("script"),
+                    o.type = "text/javascript", o.async = !0, o.crossorigin = "anonymous", o.src = "https://js.driftt.com/include/" + i + "/" + t + ".js",
                     n = document.getElementsByTagName("script")[0], n.parentNode.insertBefore(o, n);
                   });
                 }();
@@ -1686,7 +1695,7 @@
                 drift.load('bx34cws68ue9');
                 </script>
                 <!-- End of Async Drift Code -->
-                
+
                 <!-- MouseStats:Begin -->
 <script type="text/javascript">var MouseStats_Commands=MouseStats_Commands?MouseStats_Commands:[]; (function(){function b(){if(void 0==document.getElementById("__mstrkscpt")){var a=document.createElement("script");a.type="text/javascript";a.id="__mstrkscpt";a.src=("https:"==document.location.protocol?"https://ssl":"http://www2")+".mousestats.com/js/5/0/5088646396414438253.js?"+Math.floor((new Date).getTime()/6E5);a.async=!0;a.defer=!0;(document.getElementsByTagName("head")[0]||document.getElementsByTagName("body")[0]).appendChild(a)}}window.attachEvent?window.attachEvent("onload",b):window.addEventListener("load", b,!1);"complete"===document.readyState&&b()})(); </script>
 <!-- MouseStats:End -->

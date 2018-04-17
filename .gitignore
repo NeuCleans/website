@@ -1,4 +1,6 @@
+*.DS_Store
 *.tar.gz
+*.zip
 homedir
 !homedir/public_html/
 *.pem
