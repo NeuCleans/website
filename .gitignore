@@ -4,3 +4,4 @@
 homedir
 !homedir/public_html/
 *.pem
+*env.*

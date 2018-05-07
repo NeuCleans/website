@@ -6,6 +6,7 @@ if [ -z "$1" ]; then
 fi
 
 docker run --rm -itd \
-	-p 8080:80 \
+	-v $CURRENT_PROJECT_PATH/v1.conf:/etc/nginx/sites-available/default.conf \
+	-p 8081:80 \
 	--name neuwebprod \
-	neuweb:$1
+	user1m/neuweb:$1

@@ -23,17 +23,14 @@
         <link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.css'>
         <link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.theme.css'>
 
-
         <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-107991313-1"></script>
-<!-- <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-107991313-1');
-</script> -->
-
+        <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-107991313-1"></script> -->
+        <!-- <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-107991313-1');
+        </script> -->
     </head>
     <body>
         <!-- Google Tag Manager (noscript) -->
@@ -95,7 +92,7 @@
                         <li><a data-scroll href="#reviews">reviews</a></li>
                         <li><a data-scroll href="#pricing">pricing</a></li>
                         <li><a data-scroll href="#contact">Contact</a></li>
-                        <li ><a href="https://neucleans.typeform.com/to/Aj0KLL" class="signup">sign up</a></li>
+                        <li ><a href="https://neucleans.typeform.com/to/Aj0KLL" target="_blank" class="signup">sign up</a></li>
                     </ul>
                     </div><!-- /.navbar-collapse -->
                     </div><!-- /.container-fluid -->
@@ -110,7 +107,7 @@
                                 <h2>Sign up  for Hotel-grade turnovers!</h2>
                                 <div class="quote">
                                    <p>
-                                        <a href="https://neucleaningcompany.typeform.com/to/EBU0Yq">Get a free quote </a>
+                                        <a href="https://neucleaningcompany.typeform.com/to/EBU0Yq" target="_blank">Get a free quote </a>
                                    </p>
                                 </div>
                             </div>
@@ -157,9 +154,7 @@
                                 </div>
                             </div>
                             <div class="service-quote text-center">
-                                <p class="">
-                                    <a href="https://neucleaningcompany.typeform.com/to/EBU0Yq">Get a free quote </a>
-                                </p>
+                                <a href="https://neucleaningcompany.typeform.com/to/EBU0Yq" target="_blank">Get a free quote </a>
                             </div>
                         </div>
                     </div>
@@ -196,7 +191,7 @@
                                         </p>
                                     </div>
                                 </div>
-                                <div class="col-md-4 col-sm-6   feature3">
+                                <div class="col-md-4 col-sm-6 feature3">
                                     <div class="single-feature">
                                         <p class="text-center" >
                                             <img src="img/feature-3.png">
@@ -266,7 +261,7 @@
                                     <div class="row">
                                         <div class="single-feature fqoute" >
                                         <div class="feature-quote text-center">
-                                            <a href="https://neucleaningcompany.typeform.com/to/EBU0Yq">Get a free quote</a>
+                                            <a href="https://neucleaningcompany.typeform.com/to/EBU0Yq" target="_blank">Get a free quote</a>
                                         </div>
                                     </div>
                                     </div>
@@ -279,7 +274,7 @@
                 <!-- Start Testimonial -->
                 <div class="testimonial-wrapper" id="reviews">
                     <div class="section-title text-center">
-                        <h1> WHAT GUESTS SAY ABOUT OUR SERVICE</h1>
+                        <h1> WHAT HOSTS SAY ABOUT OUR SERVICE</h1>
                     </div>
                     <div class="container">
                         <div class="row">
@@ -287,67 +282,6 @@
 
                                 <article>
                                     <div id="owl">
-                                        <div class="column row">
-                                            <div class=" columns testimonial">
-                                                <div class="col-md-2">
-                                                    <div class="student">
-                                                        <div class=" round-image">
-                                                            <img src="img/client.png">
-                                                        </div>
-
-                                                    </div>
-                                                </div>
-                                                <div class="col-md-10">
-                                                    <div class="quote">
-                                                        <p>Great spot, small but perfect for one person. I stayed here for work and it was perfect. Much better than a hotel (which is where i usually stay), and cheaper! The bathroom was large and clean.
-                                                        </p>
-                                                    </div>
-                                                    <p class="name">Lara</p>
-                                                </div>
-
-                                            </div>
-                                        </div>
-                                        <div class="column row">
-                                            <div class=" columns testimonial">
-                                                <div class="col-md-2">
-                                                    <div class="student">
-                                                        <div class=" round-image">
-                                                            <img src="img/client2.jpg">
-                                                        </div>
-
-                                                    </div>
-                                                </div>
-                                                <div class="col-md-10">
-                                                    <div class="quote">
-                                                        <p>This listing was the perfect place for our visit to Seattle. A quick walk to the light rail station and the Convention Center. The apartment was clean and inviting and check-in was easy and any questions/concerns were immediately answered. The fact that parking was included in our stay meant that the overall value of this listing was better than any other place on airbnb! We had a great trip
-                                                        </p>
-                                                    </div>
-                                                    <p class="name">Rachel</p>
-                                                </div>
-
-                                            </div>
-                                        </div>
-
-                                        <div class="column row">
-                                            <div class=" columns testimonial">
-                                                <div class="col-md-2">
-                                                    <div class="student">
-                                                        <div class=" round-image">
-                                                            <img src="img/client3.jpg">
-                                                        </div>
-
-                                                    </div>
-                                                </div>
-                                                <div class="col-md-10">
-                                                    <div class="quote">
-                                                        <p>Jk was a great host, and accommodating to our request to check-in a little early. The studio is in a great location and makes exploring the sites of Seattle very easy! The studio is very spacious, clean, and welcoming. Would highly recommend
-                                                        </p>
-                                                    </div>
-                                                    <p class="name">Lisa</p>
-                                                </div>
-
-                                            </div>
-                                        </div>
 
                                         <div class="column row">
                                             <div class=" columns testimonial">
@@ -356,15 +290,13 @@
                                                         <div class=" round-image">
                                                             <img src="img/client4.jpg">
                                                         </div>
-
                                                     </div>
                                                 </div>
                                                 <div class="col-md-10">
                                                     <div class="quote">
-                                                        <p>Great place to stay in Seattle! Just a short walk to Pike Place Market. Transportation is accessible. Very clean and comfortable. The building is private, quiet and a great place to relax after a long day of exploring. Jk was promptly responsive and courteous. Lots of information available in the space about Seattle, which was nice to have. Starbucks is literally right out the front door, Top Pot is just down the street, so if you need a morning coffee you don't have to go far.
-                                                        </p>
+                                                        <p>Awesome product, working a 9-5 has not allowed me to perform cleans during the checkout checking window. NEU has saved me</p>
                                                     </div>
-                                                    <p class="name">Bradley</p>
+                                                    <p class="name">Greg</p>
                                                 </div>
 
                                             </div>
@@ -382,182 +314,10 @@
                                                 </div>
                                                 <div class="col-md-10">
                                                     <div class="quote">
-                                                        <p>The studio was clean, comfortable and quiet. It's also walking distance from several great
-                                                            restaurants, so I was able to explore the neighborhood on foot - always a plus. JK was a
-                                                            responsive host. I would definitely stay here again.
+                                                        <p>After my last cleaner canceled on me last minute, I switched to NEU and its been smooth sailing ever since.
                                                         </p>
                                                     </div>
-                                                    <p class="name">Laura</p>
-                                                </div>
-
-                                            </div>
-                                        </div>
-
-                                        <div class="column row">
-                                            <div class=" columns testimonial">
-                                                <div class="col-md-2">
-                                                    <div class="student">
-                                                        <div class=" round-image">
-                                                            <img src="img/client6.jpg">
-                                                        </div>
-
-                                                    </div>
-                                                </div>
-                                                <div class="col-md-10">
-                                                    <div class="quote">
-                                                        <p>PERFECT location! Walking distance to everything. Very clean and more spacious then it may appear. Make sure you check out the roof top! Great instructions and communication with JK. Overall a good experience
-                                                        </p>
-                                                    </div>
-                                                    <p class="name">Tyler</p>
-                                                </div>
-
-                                            </div>
-                                        </div>
-
-                                        <div class="column row">
-                                            <div class=" columns testimonial">
-                                                <div class="col-md-2">
-                                                    <div class="student">
-                                                        <div class=" round-image">
-                                                            <img src="img/client7.jpg">
-                                                        </div>
-
-                                                    </div>
-                                                </div>
-                                                <div class="col-md-10">
-                                                    <div class="quote">
-                                                        <p>Great location! A few blocks away from Pikes Place and in a neighborhood full of restaurants and bars! The studio was perfect. Extremely comfortable bed. Clean and tidy, and JK responded quickly to any needs that we had. Would def stay there again!
-                                                        </p>
-                                                    </div>
-                                                    <p class="name">Tamar</p>
-                                                </div>
-
-                                            </div>
-                                        </div>
-
-                                        <div class="column row">
-                                            <div class=" columns testimonial">
-                                                <div class="col-md-2">
-                                                    <div class="student">
-                                                        <div class=" round-image">
-                                                            <img src="img/client8.jpg">
-                                                        </div>
-
-                                                    </div>
-                                                </div>
-                                                <div class="col-md-10">
-                                                    <div class="quote">
-                                                        <p>We loved the fact that Jk's place was in walking distance to so many things. It was easy to check-in and great to have a parking place. The unit was clean and the bed was comfortable.
-                                                        </p>
-                                                    </div>
-                                                    <p class="name">Joanna</p>
-                                                </div>
-
-                                            </div>
-                                        </div>
-
-                                        <div class="column row">
-                                            <div class=" columns testimonial">
-                                                <div class="col-md-2">
-                                                    <div class="student">
-                                                        <div class=" round-image">
-                                                            <img src="img/client9.jpg">
-                                                        </div>
-
-                                                    </div>
-                                                </div>
-                                                <div class="col-md-10">
-                                                    <div class="quote">
-                                                        <p>The studio apartment was in a perfect spot, eateries, bakeries, coffee shops, and shopping within steps of your door. The studio was clean, nicely furnished, with a very comfortable bed. Parking in the apartment basement was a big plus! We parked our car for the entire visit and walked everywhere. One night we sat on the roof top and drank wine and ate cheese while enjoying a view of the space needle. We would strongly recommended this studio apartment for your stay in Seattle.
-                                                        </p>
-                                                    </div>
-                                                    <p class="name">JoAnn</p>
-                                                </div>
-
-                                            </div>
-                                        </div>
-
-
-
-                                        <div class="column row">
-                                            <div class=" columns testimonial">
-                                                <div class="col-md-2">
-                                                    <div class="student">
-                                                        <div class=" round-image">
-                                                            <img src="img/client10.jpg">
-                                                        </div>
-
-                                                    </div>
-                                                </div>
-                                                <div class="col-md-10">
-                                                    <div class="quote">
-                                                        <p>This location was perfect walking distance to Space Needle and Pike Place Market. We ended up walking much more than planned and really enjoyed it. Since we are from Los Angeles, this was a novelty. :) Room was very clean and had plenty of room. Building is going through renovation (we had no issues at all but impressed with look at decor) and is a secure building. Don't leave keycard behind.
-                                                        </p>
-                                                    </div>
-                                                    <p class="name">Alvaro</p>
-                                                </div>
-
-                                            </div>
-                                        </div>
-
-                                        <div class="column row">
-                                            <div class=" columns testimonial">
-                                                <div class="col-md-2">
-                                                    <div class="student">
-                                                        <div class=" round-image">
-                                                            <img src="img/client12.jpg">
-                                                        </div>
-
-                                                    </div>
-                                                </div>
-                                                <div class="col-md-10">
-                                                    <div class="quote">
-                                                        <p>Great place! Clean, nice, comfy bed! The building has a great patio too!
-                                                        </p>
-                                                    </div>
-                                                    <p class="name">Katie</p>
-                                                </div>
-
-                                            </div>
-                                        </div>
-
-                                        <div class="column row">
-                                            <div class=" columns testimonial">
-                                                <div class="col-md-2">
-                                                    <div class="student">
-                                                        <div class=" round-image">
-                                                            <img src="img/client0.jpg">
-                                                        </div>
-
-                                                    </div>
-                                                </div>
-                                                <div class="col-md-10">
-                                                    <div class="quote">
-                                                        <p>This apartment is very nice and clean. It on the 19th floor. It is very quiet and i can view the city building. Siegen provide a free parking. It is expensive to park in seattle you know, especially in the downtown. Very nice apartment and nice location. Thank you Siegen!
-                                                        </p>
-                                                    </div>
-                                                    <p class="name">Zheng</p>
-                                                </div>
-
-                                            </div>
-                                        </div>
-
-                                        <div class="column row">
-                                            <div class=" columns testimonial">
-                                                <div class="col-md-2">
-                                                    <div class="student">
-                                                        <div class=" round-image">
-                                                            <img src="img/client13.jpg">
-                                                        </div>
-
-                                                    </div>
-                                                </div>
-                                                <div class="col-md-10">
-                                                    <div class="quote">
-                                                        <p>We stayed here with my brother and his girlfriend along with our 1 year old and it was really great! The apartment is clean and there was plenty of room for all of us. Wonderful that there are 2 bathrooms! We loved the location and being able to walk everywhere. Highly recommend!
-                                                        </p>
-                                                    </div>
-                                                    <p class="name">Amy</p>
+                                                    <p class="name">Emma</p>
                                                 </div>
 
                                             </div>
@@ -575,10 +335,11 @@
                                                 </div>
                                                 <div class="col-md-10">
                                                     <div class="quote">
-                                                        <p>Great location for conference center events, short walk, plenty of conveniences nearby. Clean, comfortable accommodations, would stay again.
+                                                        <p>
+                                                        I'm a property manager and my biggest headache is cleans, managing multiple cleaner availabilities and schedules was a nightmare and outsourcing the cleaning portion of my business to NEU has be a dream come true.
                                                         </p>
                                                     </div>
-                                                    <p class="name">Jack</p>
+                                                    <p class="name">John</p>
                                                 </div>
 
                                             </div>
@@ -589,321 +350,16 @@
                                                 <div class="col-md-2">
                                                     <div class="student">
                                                         <div class=" round-image">
-                                                            <img src="img/client15.jpg">
+                                                            <img src="img/client6.jpg">
                                                         </div>
-
                                                     </div>
                                                 </div>
                                                 <div class="col-md-10">
                                                     <div class="quote">
-                                                        <p>Great location - walked to everything (or jumped on the bus). Apartment was clean and quiet and 24/7 security was nice. Small living area but we were not there to sit around! There is a keurig so purchase your own pods for coffee (there were only a few mild blend in the unit)!
+                                                        <p>We own a second property and took turns cleaning after guest checkouts. Neu has given us time back.
                                                         </p>
                                                     </div>
-                                                    <p class="name">Jill</p>
-                                                </div>
-
-                                            </div>
-                                        </div>
-
-                                        <div class="column row">
-                                            <div class=" columns testimonial">
-                                                <div class="col-md-2">
-                                                    <div class="student">
-                                                        <div class=" round-image">
-                                                            <img src="img/client16.jpg">
-                                                        </div>
-
-                                                    </div>
-                                                </div>
-                                                <div class="col-md-10">
-                                                    <div class="quote">
-                                                        <p>We had a nice stay here. The apartment location is perfect. The apartment is as it appears in the photos and was clean and the beds are comfortable. We were able to enjoy some time together outside on the lovely community roof deck/patio space.
-                                                        </p>
-                                                    </div>
-                                                    <p class="name">Sara</p>
-                                                </div>
-
-                                            </div>
-                                        </div>
-
-                                        <div class="column row">
-                                            <div class=" columns testimonial">
-                                                <div class="col-md-2">
-                                                    <div class="student">
-                                                        <div class=" round-image">
-                                                            <img src="img/client17.jpg">
-                                                        </div>
-
-                                                    </div>
-                                                </div>
-                                                <div class="col-md-10">
-                                                    <div class="quote">
-                                                        <p>The location is awesome! We walked Everywhere. Parking was cheap and easy, right in the building. The place is clean and organized with comfortable furniture and good quality linens. We would definitely stay here again when in Seattle.
-                                                        </p>
-                                                    </div>
-                                                    <p class="name">Joe</p>
-                                                </div>
-
-                                            </div>
-                                        </div>
-
-                                        <div class="column row">
-                                            <div class=" columns testimonial">
-                                                <div class="col-md-2">
-                                                    <div class="student">
-                                                        <div class=" round-image">
-                                                            <img src="img/client18.jpg">
-                                                        </div>
-
-                                                    </div>
-                                                </div>
-                                                <div class="col-md-10">
-                                                    <div class="quote">
-                                                        <p>Very convenient location within walking distance to Pike's Place, Lola's, Top Pot donuts, and more.
-                                                            It's also a short Uber ride from Kerry Park and the different museums around the Space Needle. The
-                                                            place is also clean and spacious - it was perfect for our weekend trip to Seattle!
-                                                        </p>
-                                                    </div>
-                                                    <p class="name">Crystal</p>
-                                                </div>
-
-                                            </div>
-                                        </div>
-
-                                        <div class="column row">
-                                            <div class=" columns testimonial">
-                                                <div class="col-md-2">
-                                                    <div class="student">
-                                                        <div class=" round-image">
-                                                            <img src="img/client19.jpg">
-                                                        </div>
-
-                                                    </div>
-                                                </div>
-                                                <div class="col-md-10">
-                                                    <div class="quote">
-                                                        <p>Clean, priced better than other area hotels, great communication, wonderful location! Lots of space; perfect for our family of 4.
-                                                        </p>
-                                                    </div>
-                                                    <p class="name">Deidre</p>
-                                                </div>
-
-                                            </div>
-                                        </div>
-
-                                        <div class="column row">
-                                            <div class=" columns testimonial">
-                                                <div class="col-md-2">
-                                                    <div class="student">
-                                                        <div class=" round-image">
-                                                            <img src="img/client20.jpg">
-                                                        </div>
-
-                                                    </div>
-                                                </div>
-                                                <div class="col-md-10">
-                                                    <div class="quote">
-                                                        <p>Location was great for shopping and access to Pikes Market. There was lobby construction going on so it was slightly underwhelming when we arrived. The unit was clean and comfortable and well maintained.
-                                                        </p>
-                                                    </div>
-                                                    <p class="name">Dan</p>
-                                                </div>
-
-                                            </div>
-                                        </div>
-
-                                        <div class="column row">
-                                            <div class=" columns testimonial">
-                                                <div class="col-md-2">
-                                                    <div class="student">
-                                                        <div class=" round-image">
-                                                            <img src="img/client21.jpg">
-                                                        </div>
-
-                                                    </div>
-                                                </div>
-                                                <div class="col-md-10">
-                                                    <div class="quote">
-                                                        <p>Great location, the room is pretty cleaned. Siegen replied my questions pretty fast! At first, we had problems with the lock and how to get in, but after we figured those things out, our stay is pretty satisfied. Thank you Siegen.
-                                                        </p>
-                                                    </div>
-                                                    <p class="name">Binqi</p>
-                                                </div>
-
-                                            </div>
-                                        </div>
-
-                                        <div class="column row">
-                                            <div class=" columns testimonial">
-                                                <div class="col-md-2">
-                                                    <div class="student">
-                                                        <div class=" round-image">
-                                                            <img src="img/client22.jpg">
-                                                        </div>
-
-                                                    </div>
-                                                </div>
-                                                <div class="col-md-10">
-                                                    <div class="quote">
-                                                        <p>The PERFECT location! The apartment is close to the conference center and Pike Place Market.
-                                                            There are tons of great restaurants close by. The building (and apartment) were clean and quite. The
-                                                            host was incredibly responsive when a small issue with the keyless entry came up. I would highly
-                                                            recommend this spot over a hotel. Thanks for sharing you place Siegen. It's a great spot!
-                                                        </p>
-                                                    </div>
-                                                    <p class="name">Wendy</p>
-                                                </div>
-
-                                            </div>
-                                        </div>
-
-                                        <div class="column row">
-                                            <div class=" columns testimonial">
-                                                <div class="col-md-2">
-                                                    <div class="student">
-                                                        <div class=" round-image">
-                                                            <img src="img/client23.jpg">
-                                                        </div>
-
-                                                    </div>
-                                                </div>
-                                                <div class="col-md-10">
-                                                    <div class="quote">
-                                                        <p>Really great place in a nice location and nice building. Nice gym in the building with a pool. Clean bedrooms, nice beds. Great communication from Siegen!
-                                                        </p>
-                                                    </div>
-                                                    <p class="name">Sam</p>
-                                                </div>
-
-                                            </div>
-                                        </div>
-
-                                        <div class="column row">
-                                            <div class=" columns testimonial">
-                                                <div class="col-md-2">
-                                                    <div class="student">
-                                                        <div class=" round-image">
-                                                            <img src="img/client24.jpg">
-                                                        </div>
-
-                                                    </div>
-                                                </div>
-                                                <div class="col-md-10">
-                                                    <div class="quote">
-                                                        <p>Great place. Very central, everything you need is right there. The space is beautiful, spacious and
-                                                            clean. It is equipped with basics. Siegen was communicative and I didn't have any problems. The
-                                                            smart lock system is super easy and convenient.
-                                                        </p>
-                                                    </div>
-                                                    <p class="name">Kiran</p>
-                                                </div>
-
-                                            </div>
-                                        </div>
-
-                                        <div class="column row">
-                                            <div class=" columns testimonial">
-                                                <div class="col-md-2">
-                                                    <div class="student">
-                                                        <div class=" round-image">
-                                                            <img src="img/client25.jpg">
-                                                        </div>
-
-                                                    </div>
-                                                </div>
-                                                <div class="col-md-10">
-                                                    <div class="quote">
-                                                        <p>Good clean place
-                                                        </p>
-                                                    </div>
-                                                    <p class="name">Mohammed</p>
-                                                </div>
-
-                                            </div>
-                                        </div>
-
-                                        <div class="column row">
-                                            <div class=" columns testimonial">
-                                                <div class="col-md-2">
-                                                    <div class="student">
-                                                        <div class=" round-image">
-                                                            <img src="img/client26.jpg">
-                                                        </div>
-
-                                                    </div>
-                                                </div>
-                                                <div class="col-md-10">
-                                                    <div class="quote">
-                                                        <p>The room is very clean and location is perfect! , only ten minutes drive from Pike place market. There are Whole Foods. Safeway, and Trader Joe's around here. We really enjoyed staying in Seattle. Definitely I recommend this house, thank you!!!
-                                                        </p>
-                                                    </div>
-                                                    <p class="name">Chieko</p>
-                                                </div>
-
-                                            </div>
-                                        </div>
-
-                                        <div class="column row">
-                                            <div class=" columns testimonial">
-                                                <div class="col-md-2">
-                                                    <div class="student">
-                                                        <div class=" round-image">
-                                                            <img src="img/client27.jpg">
-                                                        </div>
-
-                                                    </div>
-                                                </div>
-                                                <div class="col-md-10">
-                                                    <div class="quote">
-                                                        <p>Clean, spacious, and renovated interior. Pretty unassuming from the outside! Close to restaurants
-                                                            and shops. Host is very communicative. Would stay here again if I'm in Seattle in the future.
-                                                        </p>
-                                                    </div>
-                                                    <p class="name">Karen</p>
-                                                </div>
-
-                                            </div>
-                                        </div>
-
-                                        <div class="column row">
-                                            <div class=" columns testimonial">
-                                                <div class="col-md-2">
-                                                    <div class="student">
-                                                        <div class=" round-image">
-                                                            <img src="img/client28.jpg">
-                                                        </div>
-
-                                                    </div>
-                                                </div>
-                                                <div class="col-md-10">
-                                                    <div class="quote">
-                                                        <p>Wonderful spot. Well priced, clean, minimalist but had everything we needed. Able to walk to meetings. The beds and bedding were amazing. Great night's sleep.
-                                                        </p>
-                                                    </div>
-                                                    <p class="name">Tammi Taylor</p>
-                                                </div>
-
-                                            </div>
-                                        </div>
-
-                                        <div class="column row">
-                                            <div class=" columns testimonial">
-                                                <div class="col-md-2">
-                                                    <div class="student">
-                                                        <div class=" round-image">
-                                                            <img src="img/client29.jpg">
-                                                        </div>
-
-                                                    </div>
-                                                </div>
-                                                <div class="col-md-10">
-                                                    <div class="quote">
-                                                        <p>Great place in downtown Seattle. Clean, spacious, Within walking distance to lots of shops,
-                                                            restaurants and pike place market. Host was easy to reach and very helpful. Loved the heated pool
-                                                            and the terrace.
-                                                        </p>
-                                                    </div>
-                                                    <p class="name">Cynthia</p>
+                                                    <p class="name">Alex and Emily</p>
                                                 </div>
 
                                             </div>
@@ -921,10 +377,10 @@
                                                 </div>
                                                 <div class="col-md-10">
                                                     <div class="quote">
-                                                        <p>Comfortable, centrally located. Clean and enjoyable space. Nice stay.
+                                                        <p>I love their linen service. I never worry about buying linens after permanent stains.
                                                         </p>
                                                     </div>
-                                                    <p class="name">Ed</p>
+                                                    <p class="name">Chris</p>
                                                 </div>
 
                                             </div>
@@ -1035,7 +491,7 @@
                                             </div>
                                             <div class="col-xs-12">
                                                 <div class="service-quote text-center">
-                                                    <p><a href="https://neucleaningcompany.typeform.com/to/EBU0Yq">Get a free quote</a></p>
+                                                    <p><a href="https://neucleaningcompany.typeform.com/to/EBU0Yq" target="_blank">Get a free quote</a></p>
                                                 </div>
                                             </div>
                                         </div>
@@ -1132,7 +588,7 @@
                                         </div>
                                         <div class="col-xs-12">
                                             <div class="service-quote text-center">
-                                                <p><a href="https://neucleaningcompany.typeform.com/to/EBU0Yq">Get a free quote</a></p>
+                                                <p><a href="https://neucleaningcompany.typeform.com/to/EBU0Yq" target="_blank">Get a free quote</a></p>
                                             </div>
                                         </div>
                                     </div>
@@ -1250,7 +706,7 @@
                                         </div>
                                         <div class="col-xs-12 col-md-12 col-sm-6">
                                             <div class="service-quote text-center">
-                                                <p><a href="https://neucleaningcompany.typeform.com/to/EBU0Yq">Get a free quote</a></p>
+                                                <p><a href="https://neucleaningcompany.typeform.com/to/EBU0Yq" target="_blank">Get a free quote</a></p>
                                             </div>
                                         </div>
                                     </div>
@@ -1340,7 +796,7 @@
                                             </div>
                                             <div class="col-xs-12">
                                                 <div class="service-quote text-center">
-                                                    <p><a href="https://neucleaningcompany.typeform.com/to/EBU0Yq">Get a free quote</a></p>
+                                                    <p><a href="https://neucleaningcompany.typeform.com/to/EBU0Yq" target="_blank">Get a free quote</a></p>
                                                 </div>
                                             </div>
                                         </div>
@@ -1422,7 +878,7 @@
                                         </div>
                                         <div class="col-xs-12">
                                             <div class="service-quote text-center">
-                                                <p><a href="https://neucleaningcompany.typeform.com/to/EBU0Yq">Get a free quote</a></p>
+                                                <p><a href="https://neucleaningcompany.typeform.com/to/EBU0Yq" target="_blank">Get a free quote</a></p>
                                             </div>
                                         </div>
                                     </div>
@@ -1532,7 +988,7 @@
                                         </div>
                                         <div class="col-xs-12 col-md-12 col-sm-6">
                                             <div class="service-quote text-center">
-                                                <p><a href="https://neucleaningcompany.typeform.com/to/EBU0Yq">Get a free quote</a></p>
+                                                <p><a href="https://neucleaningcompany.typeform.com/to/EBU0Yq" target="_blank">Get a free quote</a></p>
                                             </div>
                                         </div>
                                     </div>
@@ -1628,6 +1084,11 @@
                                     </div>
                                 </div>
                             </div>
+                            <div class="row">
+                                <div class="col-sm-12 partner-quote text-center">
+                                    <a href="https://neucleans.typeform.com/to/tbs7mb" target="_blank" role="button" class="btn-lg btn-block">Become a cleaning partner </a>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -1640,6 +1101,7 @@
                         <li><a href="#">Privacy</a></li>
                         <li><a href="#">Term</a></li>
                         <li><a href="#">Cookies</a></li>
+                        <li><a href="https://docs.google.com/document/d/1QWq7pqwQZxRDY46cf_WwAvWpxwv4-PuiX6oJTVJie2E" target="_blank">FAQ</a></li>
                     </ul>
                 </footer>
 
