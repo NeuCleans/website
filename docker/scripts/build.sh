@@ -17,6 +17,6 @@ FILE="$PROJECT_DIR/docker/Dockerfile"
 
 docker build \
 -f $FILE \
--t $IMAGE_TAG \
+-t $AWS_ACCOUNT_ID.dkr.ecr.us-west-2.amazonaws.com/neucleans/$IMAGE_TAG \
 $PROJECT_DIR/.
 
